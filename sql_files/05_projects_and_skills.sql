@@ -41,6 +41,8 @@ SELECT *
 FROM study_to_master
 ORDER BY study_days_to_master DESC;
 
+
+
 -- This SQL query provides an overview of projects and their characteristics.
 -- It retrieves the project title, tools used, duration in days, platform, and whether ChatGPT was used.
 -- The results are ordered by the project duration in descending order, showing the longest projects first.
