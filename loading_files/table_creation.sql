@@ -1,3 +1,8 @@
+-- SQL script to create all tables for the learning_progress project
+-- Each table reflects a different part of the user's learning journey
+
+
+
 -- Creating the table to store all courses taken
 -- Includes course details, platform, date range, hours spent, and completion status
 CREATE TABLE courses_taken (
