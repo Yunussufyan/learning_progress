@@ -1,0 +1,18 @@
+course_name,platform,category,start_date,end_date,hours_spent,completed
+Introduction to SQL,DataCamp,SQL,2025-03-07,2025-03-10,4,Yes
+Intermediate SQL,DataCamp,SQL,2025-03-10,2025-03-17,7,Yes
+Joining Data,DataCamp,SQL,2025-03-17,2025-03-21,12,Yes
+Data Manipulation,DataCamp,SQL,2025-04-03,2025-04-17,16,Yes
+Basic SQL,LearnSQL.com,SQL,2025-03-03,2025-03-24,13,Yes
+Learn SQL - Luke Brousse,YouTube,SQL,2025-04-16,2025-04-22,9,Yes
+Beginner to Advanced SQL - Alex the Analyst,YouTube,SQL,2025-03-13,2025-04-03,7,Yes
+Complete SQL - TechTFQ,YouTube,SQL,2025-03-14,2025-04-06,14,Yes
+SQL Practice - DataLemur,DataLemur,SQL,2025-03-14,2025-03-28,9,Yes
+SQLBolt,SQLBolt,SQL,2025-03-01,,4,No
+Excel for Beginners - Luke Brousse,YouTube,Excel,2025-02-16,,16,No
+Excel - Chandoo.org,YouTube + Website,Excel,2025-02-21,2025-02-24,8,No
+Excel - Leila Gharani,YouTube,Excel,2025-02-13,2025-02-16,5,Yes
+Excel - ExcelIsFun,YouTube,Excel,2025-02-15,2025-02-16,4,Yes
+Excel - DataCamp,DataCamp,Excel,2025-02-28,2025-02-29,3,Yes
+Intro to ChatGPT,DataCamp,AI/Prompting,2025-02-03,2025-02-07,4,Yes
+Prompt Engineering,DataCamp,AI/Prompting,2025-02-03,2025-02-07,5,Yes

@@ -1,0 +1,31 @@
+date,topic,platform,num_questions,location,difficulty_level,duration_minutes,reflection
+2025-02-17,Subqueries,ChatGPT,22,Bed,Hard,113,Felt real progress.
+2025-04-13,JOINs,ChatGPT,21,Dorm,Medium,127,Felt real progress.
+2025-04-21,Subqueries,ChatGPT,26,Friend's Room,Medium,128,Felt real progress.
+2025-03-10,Subqueries,YouTube,16,Bed,Easy,112,Felt real progress.
+2025-03-02,Subqueries,HackerRank,5,Dorm,Easy,40,Quick refresh session.
+2025-03-19,Filtering,LeetCode,7,Café,Medium,70,Quick refresh session.
+2025-03-12,Grouping,DataLemur,3,Library,Easy,45,Quick refresh session.
+2025-03-04,Window Functions,YouTube,11,Bed,Easy,88,Felt real progress.
+2025-03-21,Subqueries,ChatGPT,30,Library,Hard,109,Felt real progress.
+2025-02-24,Subqueries,LeetCode,10,Café,Easy,90,Quick refresh session.
+2025-04-15,Subqueries,ChatGPT,23,Dorm,Easy,104,Felt real progress.
+2025-03-26,Subqueries,ChatGPT,25,Friend's Room,Hard,127,Felt real progress.
+2025-03-25,Grouping,DataLemur,4,Bed,Easy,44,Quick refresh session.
+2025-04-15,Filtering,LeetCode,10,Café,Medium,90,Quick refresh session.
+2025-02-20,Subqueries,LeetCode,7,Dorm,Hard,56,Struggled a bit with logic.
+2025-03-29,JOINs,LeetCode,10,Friend's Room,Medium,110,Quick refresh session.
+2025-04-14,Subqueries,DataLemur,4,Dorm,Easy,60,Quick refresh session.
+2025-03-12,JOINs,ChatGPT,28,Library,Hard,122,Felt real progress.
+2025-02-16,Subqueries,DataLemur,3,Friend's Room,Easy,33,Quick refresh session.
+2025-02-23,Filtering,LeetCode,7,Friend's Room,Medium,77,Quick refresh session.
+2025-02-05,JOINs,ChatGPT,23,Library,Medium,107,Felt real progress.
+2025-04-16,Subqueries,HackerRank,4,Café,Medium,48,Quick refresh session.
+2025-02-19,CTEs,LeetCode,9,Bed,Hard,99,Struggled a bit with logic.
+2025-03-29,CTEs,HackerRank,5,Bed,Medium,55,Quick refresh session.
+2025-03-22,JOINs,LeetCode,8,Dorm,Medium,64,Quick refresh session.
+2025-02-05,Subqueries,LeetCode,7,Bed,Hard,49,Struggled a bit with logic.
+2025-02-10,CTEs,ChatGPT,21,Library,Medium,165,Felt real progress.
+2025-04-06,Subqueries,ChatGPT,29,Friend's Room,Medium,160,Felt real progress.
+2025-04-04,Subqueries,YouTube,20,Dorm,Medium,160,Felt real progress.
+2025-03-27,Filtering,LeetCode,7,Dorm,Hard,70,Struggled a bit with logic.

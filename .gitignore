@@ -1,0 +1,17 @@
+# Ignore Windows junk
+Thumbs.db
+*.DS_Store
+
+# VS Code extensions or local-only settings
+.vscode/
+*.code-workspace
+
+# PostgreSQL or local file backups
+*.bak
+*.tmp
+*.csv~
+*.log
+
+# Node / Python cache files if you add scripts later
+__pycache__/
+*.pyc

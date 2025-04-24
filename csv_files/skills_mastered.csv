@@ -1,0 +1,14 @@
+skill_name,category,confidence_level,date_mastered
+Filtering,SQL,9,2025-03-10
+JOINs,SQL,9,2025-03-20
+GROUP BY,SQL,9,2025-03-25
+CASE Statements,SQL,8,2025-03-28
+Subqueries,SQL,8,2025-04-03
+CTEs,SQL,8,2025-04-07
+Window Functions,SQL,6,
+UNION/INTERSECT/EXCEPT,SQL,8,2025-04-08
+Excel Basics,Excel,9,2025-02-24
+VLOOKUP,Excel,8,2025-03-02
+XLOOKUP,Excel,8,2025-03-05
+Pivot Tables,Excel,7,2025-03-10
+Power Query,Excel,5,
